@@ -13,6 +13,7 @@
 - ✔️ TDD enthusiast and boundary pusher
 - ⚡ Advocating and raising the software quality standards worldwide
 - 🤝 Helping individuals and enterprises to apply bests software engineering practices
+- 🏄 Doing sports regularly (running, wake-skating, body-building)
 
 ## Projects
 
