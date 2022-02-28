@@ -23,7 +23,7 @@
 ## Blog posts you might be interested
 
 <p align="left">
-<a href="https://danielmoka.com/2020/05/01/test-driven-development/" title="Test Driven Development"><img src="https://github.com/mirind4/daniel-moka-blog/blob/master/public/images/blog-tdd-featured-image.png?raw=true" alt="Test Driven Development" width="400px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="Test Driven Development"><strong>Test Driven Development</strong></a>
+<a href="https://danielmoka.com/2020/05/01/test-driven-development/" title="Test Driven Development"><img src="/blog-tdd-featured-image.png" alt="Test Driven Development" width="400px" align="left" /></a>
+<a href="https://danielmoka.com/2020/05/01/test-driven-development/" title="Test Driven Development"><strong>Test Driven Development</strong></a>
 <br/> Learn about the benefits of this magnificent tool we call Test Driven Development
 </p>
