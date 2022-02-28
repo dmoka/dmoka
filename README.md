@@ -15,7 +15,7 @@
 ## Projects
 
 <p align="center">
-  <a href="https://tddmanifesto.com"><img src="https://github.com/mirind4/daniel-moka-blog/blob/master/public/images/tdd-manifesto-small.png?raw=true" height="200px"></a>
+  <a href="https://tddmanifesto.com"><img src="/tdd-manifesto-small.png" height="200px"></a>
     <a href="https://github.com/mirind4/fluent-asserter"><img src="https://github.com/mirind4/daniel-moka-blog/blob/master/public/images/fluent-asserter-logo-white-bg.png?raw=true" height="200px"></a>
     <a href="https://www.youtube.com/playlist?list=PLJ3Q-TNrdsXi-och0A0PaXKojDlxv4YsB"><img src="https://github.com/mirind4/daniel-moka-blog/blob/master/public/images/tdd-conf-small.png?raw=true" height="200px"></a>
 </p>
