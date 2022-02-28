@@ -8,14 +8,23 @@
 - ✔️ TDD enthusiast and boundary pusher
 - ⚡ Advocating and raising the software quality standards worldwide
 - 🤝 Helping individuals and enterprises to apply bests software engineering practices
-- 🔨 Currently working on [fluent-asserter](https://github.com/mirind4/fluent-asserter)
 
 ## Projects
 
 <p align="center">
   <a href="https://tddmanifesto.com"><img src="https://github.com/mirind4/daniel-moka-blog/blob/master/public/images/tdd-manifesto-small.png?raw=true" height="250px"></a>
-  <a href="https://github.com/mirind4/fluent-asserter"><img src="https://github.com/mirind4/daniel-moka-blog/blob/master/public/images/fluent-asserter-logo-white-bg.png?raw=true" height="250px"></a>
+  </span>
+    <a href="https://github.com/mirind4/fluent-asserter"><img src="https://github.com/mirind4/daniel-moka-blog/blob/master/public/images/fluent-asserter-logo-white-bg.png?raw=true" height="250px"></a>
     <a href="https://www.youtube.com/playlist?list=PLJ3Q-TNrdsXi-och0A0PaXKojDlxv4YsB"><img src="https://github.com/mirind4/daniel-moka-blog/blob/master/public/images/tdd-conf-small.png?raw=true" height="250px"></a>
+</p>
+
+## Blog posts you might be interested
+
+<p align="left">
+<a href="https://danielmoka.com/2020/05/01/test-driven-development/" title="Test Driven Development"><img src="https://github.com/mirind4/daniel-moka-blog/blob/master/public/images/blog-tdd-featured-image.png?raw=true" alt="Test Driven Development" width="400px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="Test Driven Development"><strong>Test Driven Development</strong></a>
+<br/> Learn about the benefits of this magnificent tool we call Test Driven Development
+So what are GitHub Pages?
 </p>
 
 
