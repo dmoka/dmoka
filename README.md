@@ -6,6 +6,8 @@
 <a href="https://twitter.com/dmokafa" target="blank"><img src="https://img.shields.io/twitter/follow/dmokafa.svg?logo=twitter&label=@dmokafa&style=for-the-badge" alt="dmokafa" /></a> 
 <a href="https://www.linkedin.com/in/danielmoka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:mokadaniel89@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+## Activities
   
 - 💻 Crafting solutions with .NET, TypeScript and Rust
 - ✔️ TDD enthusiast and boundary pusher
