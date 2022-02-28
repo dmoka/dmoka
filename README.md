@@ -9,11 +9,11 @@
 
 ## Activities
   
-- 💻 Crafting solutions with .NET, TypeScript and Rust
+- 💻 Crafting solutions with .NET, Rust and JavaScript/TypeScript
 - ✔️ TDD enthusiast and boundary pusher
 - ⚡ Advocating and raising the software quality standards worldwide
 - 🤝 Helping individuals and enterprises to apply bests software engineering practices
-- 🏄 Doing sports regularly (running, wake-skating, body-building)
+- 🏄 Doing sports regularly: running, wake-skating and body-building
 
 ## Projects
 
