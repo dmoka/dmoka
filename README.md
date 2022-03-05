@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Daniel Moka </h1>
 
 
-<h3 align="center">I am a software craftsman and my main goal is to make the customer happy by producing quality software solutions with the best software engineering practices.</h3>
+<h3 align="center">I am a software craftsman and my main goal is to make the customer happy by producing quality software with the best software engineering practices.</h3>
 <p align="center"> 
 <a href="https://twitter.com/dmokafa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/dmokafa.svg?logo=twitter&label=@dmokafa&style=for-the-badge" alt="dmokafa" /></a> 
 <a href="https://www.linkedin.com/in/danielmoka/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
