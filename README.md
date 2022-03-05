@@ -24,9 +24,27 @@
 </p>
 
 ## Blog posts you might be interested
+<!-- BLOG POSTS START -->
+<p align="left">
+<a href="https://danielmoka.com/blog-best-practices/test-driven-development/" title="The power of Test Driven Development"><img src="https://cdn.jsdelivr.net/gh/mirind4/dmoka-cdn/images/blog-tdd-featured-image.webp" alt="The power of Test Driven Development" width="250px" align="left" /></a>
+<a href="https://danielmoka.com/blog-best-practices/test-driven-development/" title="The power of Test Driven Development"><strong>The power of Test Driven Development</strong></a>
+<br/> Why do writing tests first matter? What are the benefits of TDD? How to get started? 
+
+Check this article and learn about the benefits of this magnificent tool we call Test Driven Development! </p> <br/> <br/>
 
 <p align="left">
-<a href="https://danielmoka.com/2020/05/01/test-driven-development/" title="Test Driven Development"><img src="/blog-tdd-featured-image.png" alt="Test Driven Development" width="400px" align="left" /></a>
-<a href="https://danielmoka.com/2020/05/01/test-driven-development/" title="Test Driven Development"><strong>Test Driven Development</strong></a>
-<br/> Learn about the benefits of this magnificent tool we call Test Driven Development
-</p>
+<a href="https://danielmoka.com/blog-best-practices/why-rust-rocks" title="Why Rust rocks"><img src="https://cdn.jsdelivr.net/gh/mirind4/dmoka-cdn/images/blog-rust-featured-image.webp" alt="The power of Test Driven Development" width="250px" align="left" /></a>
+<a href="https://danielmoka.com/blog-best-practices/why-rust-rocks" title="Why Rust rocks"><strong>Why Rust rocks</strong></a>
+<br/> I find Rust the most elegant language out there. It natively solves many problems and design issues that can be frequently and painfully experienced in other languages.
+  
+In this article I will show you why Rust is a powerful language, containing many unique and fascinating language features. </p> <br/>
+
+<p align="left">
+<a href="https://danielmoka.com/blog-best-practices/git-best-practices" title="Git best practices"><img src="https://cdn.jsdelivr.net/gh/mirind4/dmoka-cdn/images/blog-git-best-practices.webp" alt="Git best practices" width="250px" align="left" /></a>
+<a href="https://danielmoka.com/blog-best-practices/git-best-practices" title="Git best practices"><strong>Git best practices</strong></a>
+<br/> GIT is a fundamental tool for every developer out there. There is literally no day when we do not use it for managing our source code. Using Git properly will improve the quality of your projects.
+  
+In this article I will describe the best practices about GIT and explaining why writing good commit messages matters. </p> <br/> <br/>
+<!-- BLOG POSTS END -->
+
+
