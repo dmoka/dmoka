@@ -8,9 +8,6 @@
 <a href="mailto:danielmoka.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="https://www.danielmoka.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-danielmoka.com-s?style=for-the-badge"></a> 
 
-  
-  
-
 ## Activities
   
 - 💻 Crafting solutions with .NET, Rust and JavaScript/TypeScript
@@ -50,5 +47,3 @@ In this article I will show you why Rust is a powerful language, containing many
   
 In this article I will describe the best practices about GIT and explaining why writing good commit messages matters. </p> <br/> <br/>
 <!-- BLOG POSTS END -->
-
-
