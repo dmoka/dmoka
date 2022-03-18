@@ -6,7 +6,7 @@
 <a href="https://twitter.com/dmokafa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="dmokafa" /></a> 
 <a href="https://www.linkedin.com/in/danielmoka/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:danielmoka.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-<a href="https://www.danielmoka.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-danielmoka.com-s?style=for-the-badge"></a> 
+<a href="https://www.danielmoka.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/danielmoka.com-s?style=for-the-badge"></a> 
 
 ## Activities
   
